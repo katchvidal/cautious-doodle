@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d63a9f26.css","mappings":"AAAC,EACE,sCACF,CAEA,KACE,YACF,CAEA,MAIC,UAAW,CADX,gBAAiB,CADjB,UAGD","sources":["index.css"],"sourcesContent":[" * {\n   font-family: Arial, Helvetica, sans-serif;\n }\n\n body {\n   padding: 60px\n }\n\n input{\n\n  width: 100%;\n  font-size: 1.3rem;\n  color: grey;\n }"],"names":[],"sourceRoot":""}
