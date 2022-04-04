@@ -6,3 +6,5 @@
         Por defecto nuestra aplicacion debe de correr mediante un servidor "localhost" o servidor empresarial
         *   Podemos hacer pruebas montando un local host con npm install --global http-server ( paquete de node )
     -   2. Desplegar nuestra aplicacion en repositorio de Github o cualquier servicio que ofrezca un servidor privado diferente al protocolo FILE
+        *   Asignar Nombre de Docs a la carpeta build
+        *   Dentro del repositorio/"nombre de la aplicacion" -> Settings y Buscar la Opcion Github Pages y Activar la Busqueda.
